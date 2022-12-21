@@ -1,4 +1,4 @@
-Aplicação Mobile Orientada À Pessoas com Deficiência Visual em Ambientes Culturais Abertos
+APLICAÇÃO MOBILE ORIENTADA À PESSOAS COM DEFICIÊNCIA VISUAL EM AMBIENTES CULTURAIS ABERTOS
 
 Este trabalho tem como objetivo desenvolver um aplicativo que auxilie e oriente uma
 Pessoa com Deficiência visual em um ambiente cultural, os principais pontos a serem
